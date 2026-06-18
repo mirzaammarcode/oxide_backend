@@ -1,0 +1,12 @@
+{
+  "name": "oxide-backend",
+  "version": "1.0.0",
+  "description": "Basic backend for the OXIDE storefront - no payment processing, just orders and addresses.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
